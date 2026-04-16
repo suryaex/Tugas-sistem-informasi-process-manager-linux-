@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* MacOS glass effect */
+.glass {
+  @apply bg-white/60 backdrop-blur-lg shadow-xl rounded-2xl border border-white/30;
+}
+
+/* Mac button */
+.mac-btn {
+  @apply px-3 py-1 rounded-lg bg-gray-200 hover:bg-gray-300 text-sm;
+}
+
+/* Loading spinner */
+.loader {
+  border-top-color: #999;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
