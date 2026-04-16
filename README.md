@@ -222,6 +222,6 @@ Project ini dibuat sebagai implementasi sederhana dari konsep manajemen proses p
 
 ---
 
-## dokumentasi
+## Dokumentasi
 <img width="960" height="1032" alt="Screenshot 2026-04-16 165601" src="https://github.com/user-attachments/assets/b51763fa-fa3f-493d-91fd-70b5ca515396" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-16 165631" src="https://github.com/user-attachments/assets/b3941db7-bfe7-4987-9df1-f6ac1052b2a7" />
